@@ -12,4 +12,4 @@ This project includes:
 policy_evaluation.py   it's a example about policy evaluation.
 policy_iteration.py  it's a example about policy iteration which is created by adding some codes to policy_evaluation.py .
 value_iteration.py  it's a example about value iteration .
-iteration.py it's a example about value iteration. but I use action-value function in this example.
+iteration.py it's a example about value iteration. but I replace state-value function in value_iteration.py with action-value function.
