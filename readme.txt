@@ -2,7 +2,7 @@
 
 some simple examples of Dynamic Programming used for RL
 
-This project is created based on code writed by QiangYe whose blogs' location is https://zhuanlan.zhihu.com/reinforce.
+This project is created based on code writed by QiangYe whose blogs' location is https://zhuanlan.zhihu.com/reinforce. His online demo's location is https://qqiang00.github.io/reinforce/javascript/demo_iteration.html.
 
 QiangYe's code is a complete example for policy evaluation, I just change some functions or add some functions into it. 
 
